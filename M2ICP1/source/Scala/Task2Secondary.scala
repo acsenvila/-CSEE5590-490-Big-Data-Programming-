@@ -1,4 +1,4 @@
-import org.apache.spark.{SparkConf, SparkContext}
+  import org.apache.spark.{SparkConf, SparkContext}
 import org.apache.spark.HashPartitioner
 
 object Task2Secondary {

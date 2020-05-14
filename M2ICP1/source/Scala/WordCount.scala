@@ -25,3 +25,4 @@ object WordCount {
       counts.saveAsTextFile("output/output1")
     }
 }
+ 

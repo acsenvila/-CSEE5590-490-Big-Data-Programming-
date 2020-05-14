@@ -20,3 +20,4 @@ object SortedByKey {
     counts.saveAsTextFile("output/output2")
   }
 }
+ 

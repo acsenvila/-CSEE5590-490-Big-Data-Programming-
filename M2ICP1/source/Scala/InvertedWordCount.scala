@@ -22,3 +22,4 @@ object InvertedWordCount {
     map_ii.saveAsTextFile("output/output3")
   }
 }
+ 
